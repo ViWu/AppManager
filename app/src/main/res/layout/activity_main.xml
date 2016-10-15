@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@layout/bg"
+    >
+
+    <org.askerov.dynamicgrid.DynamicGridView
+        android:id="@+id/dynamic_grid"
+        android:layout_width="match_parent"
+        android:layout_height="500dp"
+        android:numColumns="4"
+        android:layout_margin="15dp"
+        android:background="@layout/screen"
+        android:scrollbars="vertical"/>
+
+    <LinearLayout
+        android:layout_height="0dp"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:gravity="center|bottom">
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="App List"
+            android:id="@+id/switchButton"
+            android:background = "@layout/bottom_menu"
+            android:padding="10dp"
+            android:gravity="bottom"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Toggle icons"
+            android:id="@+id/toggleButton"
+            android:background = "@layout/bottom_menu"
+            android:padding="10dp"
+            android:gravity="bottom"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="About"
+            android:id="@+id/aboutButton"
+            android:background = "@layout/bottom_menu"
+            android:padding="10dp"
+            android:gravity="bottom"/>
+
+    </LinearLayout>
+
+
+</LinearLayout>

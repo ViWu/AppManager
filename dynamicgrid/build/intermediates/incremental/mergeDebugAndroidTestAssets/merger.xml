@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="debug"><source path="C:\Users\wuv66\AndroidStudioProjects\AppCustomizer\dynamicgrid\build\intermediates\bundles\debug\assets"/></dataSet><dataSet config="main"><source path="C:\Users\wuv66\AndroidStudioProjects\AppCustomizer\dynamicgrid\src\androidTest\assets"/><source path="C:\Users\wuv66\AndroidStudioProjects\AppCustomizer\dynamicgrid\build\generated\assets\shaders\androidTest\debug"/></dataSet></merger>

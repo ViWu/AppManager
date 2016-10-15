@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">App Launcher</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_alternative_view">AlternativeView</string>
+    <string name="title_activity_app_info">AppInfo</string>
+    <string name="title_activity_about">About</string>
+    <string name="large_text">
+        "This is the new Android App Launcher v 1.0 Beta.\n\n"
+
+        "     This app creates a virtual environment where the user can organize and launch their installed "
+        "apps. Unlike the traditional Android Launcher where the entire phone's layout is changed, "
+        " this app provides a safe environment where users can test out new layouts and styles without "
+        "the overwhelming changes that the Android Launchers brings. Furtheremore, this app serves as "
+        "a secondary iOS/Android desktop, similar to virtual machines in PCs. It's essentially an app "
+        "that contains more apps. It also allows the user to drag and drop icons simlar to a regular "
+        "desktop. As a result, this app strives to provide the best user experience possible, by providing "
+        "great functionality, along with animations and motions that enhance the overall experience.\n\n"
+
+
+        "     This product also provides a feature that displays information about each app. In the future,"
+        "there will be features that give the user the freedom to customize icons, wall papers, ringtones"
+        "and more.\n\n"
+        "     Thank you for installing and we hope that you can experience all the features that our "
+        "product has to offer! We're always open to suggestions on possible future improvements, so if you have any questions "
+        "or comments, send us a message via Email and we'll try to get back to you within a reasonable time frame.\n\n"
+
+
+        "     Also one more thing, don't forget to spread the word to all your friends and don't forget to also try our other products "
+        "in our appstore!/n/n"
+
+
+
+    </string>
+</resources>
