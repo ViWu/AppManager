@@ -9,12 +9,13 @@
 
     <org.askerov.dynamicgrid.DynamicGridView
         android:id="@+id/dynamic_grid"
-        android:layout_width="match_parent"
+        android:layout_width="330dp"
         android:layout_height="500dp"
-        android:numColumns="4"
+        android:numColumns="3"
         android:layout_margin="15dp"
         android:background="@layout/screen"
-        android:scrollbars="vertical"/>
+        android:scrollbars="vertical"
+        android:gravity="left|center"/>
 
     <LinearLayout
         android:layout_height="0dp"

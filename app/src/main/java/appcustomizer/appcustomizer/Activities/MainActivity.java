@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity {
         getPackages();
 
 
-        gridViewAdapter = new GvAdapter(this, res, 4);
+        gridViewAdapter = new GvAdapter(this, res, 3);
         gridView.setAdapter(gridViewAdapter);
         setUpListeners();
 
